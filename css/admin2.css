@@ -1,0 +1,10 @@
+.popup_fast{
+	width: 400;
+	border: 1px solid;
+	border-color: #242424;
+	margin-left: 20px;
+
+}
+.popup_fastt{
+	display: inline-flex;
+}
